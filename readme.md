@@ -1,8 +1,9 @@
 
 # Marketing Campaign Analysis App 📊
+
 This project is an interactive **Streamlit app** designed to analyze marketing campaign data. It provides insights into **Conversion Rates**, **Retention Rates**, and **A/B Testing** outcomes through dynamic visualizations and metrics.
 
----
+
 
 ## 🔑 Key Features
 
@@ -28,7 +29,7 @@ This project is an interactive **Streamlit app** designed to analyze marketing c
   - Visualization: `matplotlib`, `seaborn`
 - **Streamlit**: Interactive front-end for real-time data analysis.
 
----
+
 
 ## 🚀 How to Run the App Locally
 
@@ -59,17 +60,17 @@ Include screenshots here, such as:
 images/conversion_rate.png
 images/retention_rate.png
 images/ab_testing.png -->
----
+
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues for feature suggestions and bug fixes.
 
----
+
 
 ## 🌟 Acknowledgments
 Special thanks to the open-source Python community and Streamlit for their fantastic tools!
 
---- 
+
 
 ## 📝 License
 This project is licensed under the MIT License.
