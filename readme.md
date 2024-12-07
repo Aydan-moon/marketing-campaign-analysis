@@ -37,7 +37,7 @@ This project is an interactive **Streamlit app** designed to analyze marketing c
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/marketing-campaign-analysis.git
+   git clone https://github.com/Aydan-moon/marketing-campaign-analysis.git
    cd marketing-campaign-analysis
 
 2. Install dependencies:
