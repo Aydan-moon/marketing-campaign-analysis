@@ -1,6 +1,5 @@
 
 # Marketing Campaign Analysis App 📊
-
 This project is an interactive **Streamlit app** designed to analyze marketing campaign data. It provides insights into **Conversion Rates**, **Retention Rates**, and **A/B Testing** outcomes through dynamic visualizations and metrics.
 
 ---
