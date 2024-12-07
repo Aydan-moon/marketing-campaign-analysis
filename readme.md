@@ -19,7 +19,7 @@ This project is an interactive **Streamlit app** designed to analyze marketing c
    - Compare the performance of control and personalized marketing variants.  
    - Perform statistical tests to determine significant differences.
 
----
+
 
 ## 🛠️ Tech Stack
 
